@@ -1,0 +1,8 @@
+{
+  "name": "Manarat Al-Ilm - SevenAI",
+  "description": "A comprehensive Islamic educational platform featuring Quran, Hadith, Prayer Times, and the sevenAI-mini-1.0.0 assistant.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
